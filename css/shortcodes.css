@@ -561,12 +561,12 @@
   z-index: -1;
 }
 .slick-next.slick-arrow:before{
-  left:0px;
-  content:"\f104";
+  left:3px;
+  content:"\f105";
 }
 .slick-prev.slick-arrow:before{
-  content:"\f105";
-  right: 0px;
+  content:"\f104";
+  right: 3px;
 }
 .widget_post_slider .slick-next.slick-arrow{
   left:35%;

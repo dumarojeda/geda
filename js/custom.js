@@ -349,8 +349,9 @@ jQuery(document).ready(function ($) {
 			  autoplay:true,
 			  speed: 1000,
 			  slidesToScroll: 1,
-			  arrows: false,
-			     responsive: [
+			  dots: true,
+			  arrows: true,
+			    responsive: [
 			    {
 			      breakpoint: 1024,
 			      settings: {
