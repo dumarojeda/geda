@@ -1432,7 +1432,7 @@ section{
   height:480px;
 }
 
-.eco_flip-container{
+.eco_flip-container, .eco_flip-container_{
 	height:486px;
     margin-top: 0;
     margin-bottom: 30px;
